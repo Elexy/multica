@@ -134,59 +134,6 @@
     "success_toast": "Je staat op de lijst. We mailen je zodra cloud-runtimes live zijn.",
     "failed_toast": "Aanmelden voor wachtlijst mislukt"
   },
-  "first_issue": {
-    "error_title": "Er ging iets mis",
-    "retry": "Opnieuw proberen",
-    "retry_failed": "Opnieuw proberen mislukt",
-    "finishing": "Afronden",
-    "opening": "Bijna klaar — je workspace wordt geopend."
-  },
-  "step_agent": {
-    "eyebrow": "Je eerste agent",
-    "headline": "Maak kennis met je eerste teamgenoot.",
-    "lede_prefix": "Je antwoorden wijzen op een ",
-    "lede_suffix": ". Kies welke van de vier bij je past — elk sjabloon is klaar om zijn eerste issue op te pakken. Je kunt de instructies later bijstellen via de agent-instellingenpagina.",
-    "footer_hint": "Eén agent is genoeg om te beginnen. Voeg er later meer toe via de zijbalk.",
-    "create_action": "{{name}} aanmaken",
-    "create_failed": "Aanmaken van agent mislukt",
-    "recommended_badge": "Aanbevolen",
-    "templates": {
-      "coding": {
-        "label": "Coding Agent",
-        "blurb": "Schrijft, refactort en levert code op. Leest je repo.",
-        "instructions": "Je bent een Coding Agent in een productteam. Pak code-issues op — implementeer functies, los bugs op, schrijf tests en open pull requests. Lees de repository voordat je begint, volg bestaande codeconventies en houd diffs gefocust. Vraag om verduidelijking wanneer de acceptatiecriteria dubbelzinnig zijn."
-      },
-      "planning": {
-        "label": "Planning Agent",
-        "blurb": "Splitst werk op, stelt specs op, houdt het bord netjes.",
-        "instructions": "Je bent een Planning Agent. Zet losse ideeën en open issues om in afgebakend, uitvoerbaar werk: splits ze op in subtasks, schrijf acceptatiecriteria en stel eigenaren en volgorde voor. Verkies duidelijkheid boven snelheid. Wanneer je vastloopt door ontbrekende context, stel dan één specifieke vraag in plaats van te gokken."
-      },
-      "writing": {
-        "label": "Writing Agent",
-        "blurb": "Stelt op, vat samen, onderzoekt. Geschikt voor langere teksten.",
-        "instructions": "Je bent een Writing Agent. Stel documenten op, vat lange inhoud samen en onderzoek onderwerpen op het web wanneer nodig. Structureer je uitvoer als afgewerkt proza dat een lezer direct kan gebruiken — geen opsomming. Vermeld bronnen wanneer je eruit put. Sluit aan bij de toon die de gebruiker in de issue vaststelt."
-      },
-      "assistant": {
-        "label": "Assistant",
-        "blurb": "Algemeen. Een goede standaard wanneer de task onduidelijk is.",
-        "instructions": "Je bent een algemene teamgenoot. Handel uiteenlopende tasks af — licht coderen, schrijven, onderzoeken, plannen — en blijf pragmatisch over de scope. Wanneer de task dubbelzinnig is, stel dan één verhelderende vraag voordat je erin duikt. Kies standaard voor korte, nuttige uitvoer boven uitputtende."
-      }
-    },
-    "about_eyebrow": "Wat is een agent",
-    "about_headline": "Een AI-teamgenoot die in je workspace leeft.",
-    "about_body": "Agents verschijnen in elke toewijzingskiezer, net als elke andere collega — behalve dat ze 24/7 kunnen werken op de runtime die je ze geeft.",
-    "ways_eyebrow": "Manieren om met een agent te werken",
-    "way_assign_title": "Wijs een issue toe",
-    "way_assign_body": "Het pakt de task op en koppelt terug in de thread.",
-    "way_mention_title": "@vermeld in een reactie",
-    "way_mention_body": "Betrek het in een gesprek voor een snelle inschatting.",
-    "way_chat_title": "Chat één-op-één",
-    "way_chat_body": "Stel snelle vragen zonder een issue aan te maken.",
-    "way_autopilot_title": "Zet het op Autopilot",
-    "way_autopilot_body": "Dagelijkse triage, wekelijks overzicht, maandelijkse audit — volgens schema.",
-    "add_more_hint": "Voeg altijd meer agents toe. Een klein team gespecialiseerde agents verslaat één manusje-van-alles.",
-    "docs_link": "Je eerste agent aanmaken →"
-  },
   "welcome_after_onboarding": {
     "loading_helper": "Je Helper voorbereiden…",
     "error_title": "Kon setup niet voltooien",

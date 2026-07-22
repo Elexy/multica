@@ -13,6 +13,20 @@
     "skills": "Skills",
     "settings": "Instellingen"
   },
+  "tab": {
+    "issue": "Issue",
+    "project": "Project",
+    "autopilot": "Autopilot",
+    "agent": "Agent",
+    "member": "Lid",
+    "squad": "Squad",
+    "skill": "Skill",
+    "machine": "Machine",
+    "runtime": "Runtime",
+    "attachment": "Bijlage",
+    "create_agent": "Agent aanmaken",
+    "unknown": "Onbekende pagina"
+  },
   "help": {
     "trigger": "Help",
     "docs": "Documentatie",

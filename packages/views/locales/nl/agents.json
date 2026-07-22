@@ -594,6 +594,8 @@
       "toggle_aria": "{{name}} in-/uitschakelen",
       "remove_aria": "{{name}} verwijderen",
       "toggle_failed_toast": "Wijzigen van skill-status mislukt",
+      "runtime_toggle_aria": "Overgenomen {{name}} in-/uitschakelen",
+      "runtime_toggle_failed_toast": "Wijzigen van status van overgenomen skill mislukt",
       "runtime_missing": "Wijs een lokale runtime toe om overgenomen skills te ontdekken.",
       "runtime_offline": "De lokale runtime is offline. Verbind hem opnieuw om overgenomen skills te vernieuwen.",
       "runtime_discovering": "Skills ontdekken vanaf de lokale runtime…",
