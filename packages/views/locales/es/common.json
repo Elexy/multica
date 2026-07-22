@@ -1,0 +1,71 @@
+{
+  "avatar_upload": {
+    "change": "Cambiar avatar",
+    "remove": "Quitar",
+    "select_image": "Elegí un archivo de imagen.",
+    "updated": "Avatar actualizado",
+    "failed": "Falló al subir el avatar"
+  },
+  "avatar_crop": {
+    "title": "Editar avatar",
+    "zoom": "Zoom",
+    "zoom_in": "Acercar",
+    "zoom_out": "Alejar",
+    "rotate": "Rotar",
+    "reset": "Restablecer",
+    "cancel": "Cancelar",
+    "apply": "Guardar",
+    "uploading": "Subiendo…",
+    "loading": "Cargando…",
+    "load_failed": "No se pudo cargar la imagen"
+  },
+  "color_picker": {
+    "saturation": "Saturación y brillo",
+    "hue": "Tono",
+    "hex": "Color hexadecimal",
+    "eyedropper": "Elegir un color de la pantalla",
+    "presets": "Predefinidos",
+    "random": "Aleatorio"
+  },
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "delete": "Eliminar",
+  "confirm": "Confirmar",
+  "loading": "Cargando...",
+  "time": {
+    "just_now": "recién",
+    "minutes_ago": "hace {{count}}m",
+    "hours_ago": "hace {{count}}h",
+    "days_ago": "hace {{count}}d"
+  },
+  "lark_bind": {
+    "page_title": "Vinculá tu cuenta de Lark",
+    "redeeming": "Canjeando el token de vinculación…",
+    "needs_auth_description": "Iniciá sesión en Multica para completar la vinculación. El token del enlace vincula tu cuenta de Lark con este usuario de Multica, así que primero tenés que iniciar sesión.",
+    "sign_in": "Iniciar sesión",
+    "done_title": "Ya estás vinculado.",
+    "done_description": "Tu próximo mensaje al Bot en Lark irá directo al Agent. Podés cerrar esta pestaña.",
+    "error_title": "No se pudo completar la vinculación",
+    "error_admin_hint": "Si esto sigue pasando, pedile al admin del workspace que reenvíe el enlace de vinculación desde Lark.",
+    "error_missing_token": "Al enlace le falta su token de vinculación. Pedile al Bot que envíe uno nuevo en Lark.",
+    "error_expired": "Este enlace de vinculación no es válido o expiró (los enlaces valen 15 minutos). Pedile al Bot que envíe uno nuevo.",
+    "error_already_bound": "Esta cuenta de Lark ya está vinculada a otro usuario de Multica. Las transferencias de cuenta requieren una desvinculación explícita primero.",
+    "error_not_member": "Iniciaste sesión en una cuenta de Multica que no es miembro de este workspace.",
+    "error_unknown": "Algo salió mal. Probá de nuevo y, si el problema persiste, contactá al admin del workspace."
+  },
+  "slack_bind": {
+    "page_title": "Vinculá tu cuenta de Slack",
+    "redeeming": "Vinculando tu cuenta…",
+    "needs_auth_description": "Iniciá sesión en Multica para completar la vinculación. El token del enlace vincula tu cuenta de Slack con este usuario de Multica, así que primero tenés que iniciar sesión.",
+    "sign_in": "Iniciar sesión",
+    "done_title": "Ya estás vinculado.",
+    "done_description": "Tu próximo mensaje al bot en Slack irá directo al agent. Podés cerrar esta pestaña.",
+    "error_title": "No se pudo completar la vinculación",
+    "error_admin_hint": "Si esto sigue pasando, escribile de nuevo al bot en Slack para obtener un enlace nuevo.",
+    "error_missing_token": "Al enlace le falta su token. Escribile de nuevo al bot en Slack para obtener uno nuevo.",
+    "error_expired": "Este enlace no es válido o expiró (los enlaces valen 15 minutos). Escribile de nuevo al bot para obtener uno nuevo.",
+    "error_already_bound": "Esta cuenta de Slack ya está vinculada a otro usuario de Multica. Las transferencias de cuenta requieren una desvinculación explícita primero.",
+    "error_not_member": "Iniciaste sesión en una cuenta de Multica que no es miembro de este workspace.",
+    "error_unknown": "Algo salió mal. Probá de nuevo y, si el problema persiste, contactá al admin del workspace."
+  }
+}
